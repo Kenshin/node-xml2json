@@ -1,0 +1,10 @@
+{
+  "name": "node-xml2json",
+  "version": "1.0.0",
+  "description": "xml to json for Node.js",
+  "author": "Kenshin <kenshin@ksria.com> (http://www.k-zone.cn/zblog)",
+  "keywords": ["xml", "json", "xml to json", "xml2json"],
+  "repository": "git@github.com:Kenshin/node-xml2json.git",
+  "main": "index",
+  "engines": { "node": "*" }
+}
