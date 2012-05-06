@@ -10,7 +10,7 @@ $ npm install -g node-xml2json
 使用：  
 <pre>
 var xml2json = require(&quot;node-xml2json&quot;);
-var xml      = &quot;<xml>hello</xml>&quot;;
+var xml      = &quot;&lt;xml&gt;hello&lt;/xml&gt;&quot;;
 var json     = xml2json.parser( xml );
 console.log( json.xml )
 </pre>
