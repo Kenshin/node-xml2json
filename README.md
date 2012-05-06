@@ -20,7 +20,7 @@ console.log( json.xml )
 
 测试：  
 <pre>
-..\node_modules\node-xml2json\test\ node test.js
+..\node_modules\node-xml2json\test\node test.js
 </pre>
 
 其他版本的分页组件：  
